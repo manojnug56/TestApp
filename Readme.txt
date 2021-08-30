@@ -9,6 +9,9 @@
 
 4. Google authentication
    https://qawithexperts.com/article/asp-net/implementing-google-authentication-in-aspnet-mvc/222
+   
+5. Alert
+   https://sweetalert.js.org/
 
 -----------------------------------------------------------------------------------------------------
 User Login (here I have not used to password encryption method (Hash bite))
