@@ -11,7 +11,7 @@
    https://qawithexperts.com/article/asp-net/implementing-google-authentication-in-aspnet-mvc/222
 
 -----------------------------------------------------------------------------------------------------
-User Login
+User Login (here I have not used to password encryption method (Hash bite))
 
 Id- abc@gmail.com
 Password- 123
